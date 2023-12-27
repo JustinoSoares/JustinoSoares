@@ -8,10 +8,10 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinoSoares&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <div>
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working at Morphosis Corporation
-- 🌱 I’m currently learning Vue.js and Node.js
+- 🌱 I’m currently learning Laravel,Livewire and about database(Mysql)
 - 💬 Ask me about: <strong>Laravel,Livewire,HTML, CSS,JavaScript,PHP ,Mysql, Linguagem C</strong>
 - ⚡ Fun fact: SomeOne is Watching you
   
