@@ -11,7 +11,8 @@
 
 
 - 🔭 I’m currently working at Morphosis Corporation
-- 🌱 I’m currently learning Laravel,Livewire and about database(Mysql)
+- 🌱 I’m currently working Node.js ,Laravel and about database(Mysql)
+- I'm a Backend programmer and DBA (Administrador de Banco de dados).
 - 💬 Ask me about: <strong>Laravel,Livewire,HTML, CSS,JavaScript,PHP ,Mysql, Linguagem C</strong>
 - ⚡ Fun fact: SomeOne is Watching you
   
@@ -22,15 +23,18 @@
   <div style="display: inline_block"><br>
       <p><p style="margin-top:10rem;">
   I am Working with Web Development!!!
-</p></p>
-    <img align="center" height="35" width="35" alt="coding-time" src="./img/laravel-2.svg">
-    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" />
-    <img align="center" height="30" width="30" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="30" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="30" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="30"alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center"height="30" width="30" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="30" alt="nodejs-icon" src="./img/livewire.png">
+</p>
+</p>
+    <p>Skills</p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Mysql-ddd?style=for-the-badge&logo=mysql&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <p>Framework</p>
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=76B900"/>
+    <img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF0000"/>
    </div>
     
   
