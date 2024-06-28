@@ -31,7 +31,6 @@
     <img align="center" height="30" width="30" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="30"alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center"height="30" width="30" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-     <img align="center" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
     <img align="center" height="30" width="30" alt="nodejs-icon" src="./img/livewire.png">
    </div>
     
