@@ -24,8 +24,7 @@
   I am Working with Web Development!!!
 </p></p>
     <img align="center" height="35" width="35" alt="coding-time" src="./img/laravel-2.svg">
-     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" />
-    <p></p>
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" />
     <img align="center" height="30" width="30" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="30" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="30" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
