@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working at Morphosis Corporation
 - 🌱 I’m currently working Node.js ,Laravel and about database(Mysql)
-- I'm a Backend programmer and DBA (Administrador de Banco de dados).
+- I'm a <strong> Backend programmer and DBA (Administrador de Banco de dados). </strong>
 - 💬 Ask me about: <strong>Laravel,Livewire,HTML, CSS,JavaScript,PHP ,Mysql, Linguagem C</strong>
 - ⚡ Fun fact: SomeOne is Watching you
   
@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white"/>
      <img src="https://img.shields.io/badge/Mysql-ddd?style=for-the-badge&logo=mysql&logoColor=blue"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=ffff0"/>
     <p>Framework</p>
     <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=76B900"/>
     <img src="https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF0000"/>
