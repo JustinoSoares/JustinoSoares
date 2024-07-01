@@ -23,6 +23,7 @@ Hello, I'm <strong> Justino Soares </strong>, a student at 42Luanda, I'm a <stro
     <img src="https://img.shields.io/badge/Mysql-ddd?style=for-the-badge&logo=mysql&logoColor=blue"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux&logoColor=ffff0"/>
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=GitHub&logoColor=fffff"/>
      <br>
      <br>
      <hr/>
