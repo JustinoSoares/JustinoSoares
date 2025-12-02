@@ -23,7 +23,7 @@ https://honor-invite.tech
 ```
 
 <p>
-    2 - Sistema de controlo de partidas de Xadrez <a href="[https://cavaleiro.tech/)">Cavaleiro.</a>
+    2 - Sistema de controlo de partidas de Xadrez <a href="https://cavaleiro.tech/">Cavaleiro.</a>
 </p>
 
 ```markdown
