@@ -8,7 +8,7 @@
 <br>
  Skills
 </p>
-<img src="https://skillicons.dev/icons?i=git,docker,html,css,js,c,cpp,figma,linux,react,flutter,tailwind,vscode,bash,nodejs,typescript,postgresql,python" />
+<img src="https://skillicons.dev/icons?i=git,docker,html,css,js,c,cpp,figma,linux,react,flutter,tailwind,vscode,bash,nodejs,typescript,postgresql,python,nestjs" />
 <hr/>
 </div>
 
