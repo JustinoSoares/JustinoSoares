@@ -15,11 +15,11 @@
 <h2>Projectos Destacados</h4>
 
 <p>
-    1 - Criação de uma Inteligência artificial que reponde por contexto (Context AI) <a href="https://context-ai.himersus.com"> Context AI</a>
+    1 - Criação de uma Inteligência artificial que reponde por contexto  ( Context AI ) <a href="https://context-ai.himersus.com"> Context AI</a>
 </p>
 
 ```markdown
-[https://honor-invite.tech](https://context-ai.himersus.com)
+https://context-ai.himersus.com
 ```
 
 <p>
