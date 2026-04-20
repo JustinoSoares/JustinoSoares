@@ -15,7 +15,7 @@
 <h2>Projectos Destacados</h4>
 
 <p>
-    1 - Criação de um sistema de convites digitais (Honor) <a href="https://honor-invite.tech/"> Honor</a>
+    1 - Criação de uma Inteligência artificial que reponde por contexto (Context AI) <a href="https://context-ai.himersus.com"> Honor</a>
 </p>
 
 ```markdown
@@ -23,7 +23,7 @@ https://honor-invite.tech
 ```
 
 <p>
-    2 - Sistema de controlo de partidas de Xadrez <a href="https://cavaleiro.tech/">Cavaleiro.</a>
+    2 - Criação de um sistema de convites digitais (Honor) <a href="https://honor-invite.tech/"> Honor</a>
 </p>
 
 ```markdown
